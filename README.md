@@ -3,7 +3,7 @@
 			
 			
 			
-A simple Python 3.x project that operate on numbers with bases from 2 to 16. First module of project
+A simple Python 3.x project that operates on numbers with bases from 2 to 16. First module of project
 converts the inputs in any base (2 -16) using special algorithms like:
 
 ```
